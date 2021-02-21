@@ -10,7 +10,7 @@ Bem simples, mas divertido, feito somente como passa tempo e aprendizado.
 Assim se encontra a primeira versão (e atual) do aplicativo:
 
 
-<img src='src/images/Screenshot_1.jpg'/> <img src='src/images/Screenshot_2.jpg'/> <img src='src/images/Screenshot_3.jpg'/>
+<img width='25' heigth = '100' src='src/images/Screenshot_1.jpg'/> <img width='25' heigth = '100' src='src/images/Screenshot_2.jpg'/> <img width='25' heigth = '100' src='src/images/Screenshot_3.jpg'/>
 
 
 Dependendo de novas ideias continuo ou não investindo nesse app.
