@@ -10,9 +10,8 @@ Bem simples, mas divertido, feito somente como passa tempo e aprendizado.
 Assim se encontra a primeira versão (e atual) do aplicativo:
 
 
-<img src='./images/Screenshot_1.jpg'/>
+<img src='src/images/Screenshot_1.jpg'/> <img src='src/images/Screenshot_2.jpg'/> <img src='src/images/Screenshot_3.jpg'/>
 
-<!-- ![alt text](http://url/to/Srceenshoot_1.jpg) ![Screenshot 2](./images/Screenshot_2.jpg) ![Screenshot 3](./images/Screenshot_3.jpg) -->
 
 Dependendo de novas ideias continuo ou não investindo nesse app.
 
